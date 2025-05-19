@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on: Exploring backend technologies to complement my frontend skills.<br>I'm looking to collaborate on: Building responsive and interactive websites.<br>Ask me about: My journey and experiences as a first-year B.Tech student in IT.<br>Fun fact: I enjoy playing cricket and believe it helps improve my team collaboration skills.
+I'm a passionate and self-driven web developer currently pursuing my engineering degree in Information Technology. I have a strong command over frontend development with practical experience using React.js, Tailwind CSS, HTML, and JavaScript to build clean, responsive, and interactive user interfaces.
+
+I’m currently learning Java and have a good grasp of its basics. My goal is to dive deeper into backend development using Java and strengthen my knowledge of Data Structures and Algorithms (DSA) in Java—having previously learned DSA in C.
+
+I’ve participated in real-world tech challenges like the Smart India Hackathon and Cosmocloud Hackathon, where my team achieved recognition for our innovative solutions. These experiences have helped me grow as a developer and team player.
+
+Always eager to learn and build, I’m on a journey to master full-stack development and contribute to meaningful tech products.
 
 
 ## 🌐 Socials:
