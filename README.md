@@ -2,6 +2,7 @@
 I spend my days as a web developer and am currently getting my degree in Information Technology. I work on the front end and have used React.js, Tailwind CSS, HTML, and JavaScript to make clean, responsive, and interactive interfaces.
 
 I've done work on real-life projects like these:
+
 AyurHerb[https://ayurherb.vercel.app/] is a full-stack herbal information site that uses Firebase for its backend services.
 
 Cryptify[https://cryptify-defi.vercel.app/] is a Web3 platform that came in sixth place in the EduChain Semester 3 Hackathon.
