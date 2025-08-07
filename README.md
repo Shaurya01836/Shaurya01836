@@ -1,6 +1,18 @@
 # 💫 About Me:
-I'm a passionate and self-driven web developer currently pursuing my engineering degree in Information Technology. I have a strong command over frontend development with practical experience using React.js, Tailwind CSS, HTML, and JavaScript to build clean, responsive, and interactive user interfaces.<br><br>I’m currently learning Java and have a good grasp of its basics. My goal is to dive deeper into backend development using Java and strengthen my knowledge of Data Structures and Algorithms (DSA) in Java—having previously learned DSA in C.<br><br>I’ve participated in real-world tech challenges like the Smart India Hackathon and Cosmocloud Hackathon, where my team achieved recognition for our innovative solutions. These experiences have helped me grow as a developer and team player.<br><br>Always eager to learn and build, I’m on a journey to master full-stack development and contribute to meaningful tech products.
+I spend my days as a web developer and am currently getting my degree in Information Technology. I work on the front end and have used React.js, Tailwind CSS, HTML, and JavaScript to make clean, responsive, and interactive interfaces.
 
+I've done work on real-life projects like these:
+AyurHerb[https://ayurherb.vercel.app/] is a full-stack herbal information site that uses Firebase for its backend services.
+
+Cryptify[https://cryptify-defi.vercel.app/] is a Web3 platform that came in sixth place in the EduChain Semester 3 Hackathon.
+
+As I work toward becoming a full-stack developer, I'm actively learning about backend development, trying out Firebase, and thinking about using Express.js. I'm also getting better at Java and Data Structures & Algorithms. I'm switching from C to Java to solve problems more deeply.
+
+I've taken part in national-level hackathons like the Smart India Hackathon and the Cosmocloud Hackathon, where I learned how to work well with others.
+
+🔗 Portfolio: https://shaurya01836-portfolio.vercel.app/.
+
+💼 Open to internship and freelance opportunities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurya_mnu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/this-is-shaurya-upadhyay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaurya01836) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaurya01836@gmail.com) 
