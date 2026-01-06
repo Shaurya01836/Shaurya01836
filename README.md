@@ -1,19 +1,64 @@
-# 💫 About Me:
-I spend my days as a web developer and am currently getting my degree in Information Technology. I work on the front end and have used React.js, Tailwind CSS, HTML, and JavaScript to make clean, responsive, and interactive interfaces.
+## 💫 About Me
 
-I've done work on real-life projects like these:
+I’m an **Information Technology undergraduate** with a strong focus on **backend development and system design**. I enjoy building **secure, scalable APIs**, designing clean database schemas, and solving real-world problems using **Java and Spring Boot**.
 
-AyurHerb[https://ayurherb.vercel.app/] is a full-stack herbal information site that uses Firebase for its backend services.
+My recent work has been centered around **RESTful backend services**, data security, authentication, and deployment.
 
-Cryptify[https://cryptify-defi.vercel.app/] is a Web3 platform that came in sixth place in the EduChain Semester 3 Hackathon.
+---
 
-As I work toward becoming a full-stack developer, I'm actively learning about backend development, trying out Firebase, and thinking about using Express.js. I'm also getting better at Java and Data Structures & Algorithms. I'm switching from C to Java to solve problems more deeply.
+## 🚀 Notable Projects
 
-I've taken part in national-level hackathons like the Smart India Hackathon and the Cosmocloud Hackathon, where I learned how to work well with others.
+- **Online Clipboard**  
+  Secure backend system built with **Spring Boot, PostgreSQL, Hibernate, and Spring Security**, featuring encrypted data storage, scheduled cleanup jobs, and role-based access control.
 
-🔗 Portfolio: https://shaurya01836-portfolio.vercel.app/.
+- **Flux Wallet – Personal Finance Tracker**  
+  Personal finance tracker with **Spring Boot REST APIs**, **JPQL-based analytics**, Google OAuth2 authentication, and Dockerized deployment.
 
-💼 Open to internship and freelance opportunities.
+- **Cryptify**  
+  Web3 payment and commitment platform that secured **6th place among 9000+ participants** in the **EDU Chain Semester 3 Hackathon**.
+
+- **AyurHerb**  
+  Full-stack herbal education platform integrating APIs, MongoDB, and chatbot support.
+
+---
+
+## 🛠 Tech I Work With
+
+**Backend:**  
+- Java, Spring Boot 3, Spring Security, Hibernate/JPA, REST APIs  
+
+**Databases:**  
+- PostgreSQL, MongoDB  
+
+**Security:**  
+- OAuth2, JWT
+
+**Frontend:**  
+- React.js, Tailwind CSS  
+
+**CS Fundamentals:**  
+- Data Structures & Algorithms (Java)
+
+---
+
+## 🏆 Experience & Hackathons
+
+- Participated in **national-level hackathons** including **Smart India Hackathon**, **CosmoCloud Hackathon**, and **EDU Chain Hackathon**  
+- Gained hands-on experience in **backend architecture**, **team collaboration**, and **production-ready development**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Spring Boot architecture**
+- Backend performance optimization
+- Clean code practices & **system design fundamentals**
+
+---
+
+[🔗 **Portfolio** ](https://shaurya-upadhyay.me/)  
+💼 **Open to backend internships, SDE roles, and freelance opportunities**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurya_mnu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/this-is-shaurya-upadhyay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaurya01836) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaurya01836@gmail.com) 
